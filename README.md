@@ -1,5 +1,9 @@
 # TIL_WEB
 
+### 에피코딩 HCJ
+강의로 HCJ 공부
+HTML 요소 참고서 사이트에서 추가 공부
+
 ### HTML+CSS+Javascripts
 * HTML로 웹 구조 설계
 * CSS로 웹 페이지 꾸미기
